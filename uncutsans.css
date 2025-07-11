@@ -1,36 +1,35 @@
 /* cache bust */
 @font-face {
   font-family: 'Uncut Sans Light';
-  src: url('https://preptime-source.github.io/uncut-sans-font/UncutSans-Light.woff2') format('woff2');
+  src: url('UncutSans-Light.woff2') format('woff2');
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Uncut Sans Regular';
-  src: url('https://preptime-source.github.io/uncut-sans-font/UncutSans-Regular.woff2') format('woff2');
+  src: url('UncutSans-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Uncut Sans Medium';
-  src: url('https://preptime-source.github.io/uncut-sans-font/UncutSans-Medium.woff2') format('woff2');
+  src: url('UncutSans-Medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Uncut Sans Semibold';
-  src: url('https://preptime-source.github.io/uncut-sans-font/UncutSans-Semibold.woff2') format('woff2');
+  src: url('UncutSans-Semibold.woff2') format('woff2');
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Uncut Sans Bold';
-  src: url('https://preptime-source.github.io/uncut-sans-font/UncutSans-Bold.woff2') format('woff2');
+  src: url('UncutSans-Bold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
 }
-
