@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Uncut Sans';
+  src: url('https://ad0f366816feb91db9eeea71b4aea24b.cdn.bubble.io/f1752252774065x956549850319921900/UncutSans-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Uncut Sans';
+  src: url('https://ad0f366816feb91db9eeea71b4aea24b.cdn.bubble.io/f1752252740817x825747857849587800/UncutSans-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Uncut Sans';
+  src: url('https://ad0f366816feb91db9eeea71b4aea24b.cdn.bubble.io/f1752252687782x905144043527237300/UncutSans-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Uncut Sans';
+  src: url('https://ad0f366816feb91db9eeea71b4aea24b.cdn.bubble.io/f1752252803424x846128225897030100/UncutSans-Semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Uncut Sans';
+  src: url('https://ad0f366816feb91db9eeea71b4aea24b.cdn.bubble.io/f1752251986295x233367761271892060/UncutSans-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
